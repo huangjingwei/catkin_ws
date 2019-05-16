@@ -1,0 +1,8 @@
+prefix=/home/catkin_ws/devel
+
+Name: chapter6_tutorials
+Description: Description of chapter6_tutorials
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/catkin_ws/devel/lib 
+Requires: 

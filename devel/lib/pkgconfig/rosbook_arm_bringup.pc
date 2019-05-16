@@ -1,0 +1,8 @@
+prefix=/home/catkin_ws/devel
+
+Name: rosbook_arm_bringup
+Description: Description of rosbook_arm_bringup
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/catkin_ws/devel/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/catkin_ws/devel
+
+Name: rosbook_arm_moveit_config
+Description: Description of rosbook_arm_moveit_config
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/catkin_ws/devel/lib 
+Requires: 

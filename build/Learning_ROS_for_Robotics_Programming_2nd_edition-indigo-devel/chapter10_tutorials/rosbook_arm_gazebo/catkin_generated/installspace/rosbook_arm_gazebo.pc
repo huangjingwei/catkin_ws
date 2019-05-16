@@ -1,0 +1,8 @@
+prefix=/home/catkin_ws/install
+
+Name: rosbook_arm_gazebo
+Description: Description of rosbook_arm_gazebo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/catkin_ws/install/lib 
+Requires: 
