@@ -444,62 +444,6 @@ driver_base_generate_messages_py/fast:
 .PHONY : driver_base_generate_messages_py/fast
 
 # Convenience name for target.
-chapter3_tutorials/CMakeFiles/dynamic_reconfigure_gencfg.dir/rule:
-	cd /home/catkin_ws/build && $(MAKE) -f CMakeFiles/Makefile2 chapter3_tutorials/CMakeFiles/dynamic_reconfigure_gencfg.dir/rule
-.PHONY : chapter3_tutorials/CMakeFiles/dynamic_reconfigure_gencfg.dir/rule
-
-# Convenience name for target.
-dynamic_reconfigure_gencfg: chapter3_tutorials/CMakeFiles/dynamic_reconfigure_gencfg.dir/rule
-.PHONY : dynamic_reconfigure_gencfg
-
-# fast build rule for target.
-dynamic_reconfigure_gencfg/fast:
-	cd /home/catkin_ws/build && $(MAKE) -f chapter3_tutorials/CMakeFiles/dynamic_reconfigure_gencfg.dir/build.make chapter3_tutorials/CMakeFiles/dynamic_reconfigure_gencfg.dir/build
-.PHONY : dynamic_reconfigure_gencfg/fast
-
-# Convenience name for target.
-chapter3_tutorials/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/rule:
-	cd /home/catkin_ws/build && $(MAKE) -f CMakeFiles/Makefile2 chapter3_tutorials/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/rule
-.PHONY : chapter3_tutorials/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/rule
-
-# Convenience name for target.
-dynamic_reconfigure_generate_messages_cpp: chapter3_tutorials/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/rule
-.PHONY : dynamic_reconfigure_generate_messages_cpp
-
-# fast build rule for target.
-dynamic_reconfigure_generate_messages_cpp/fast:
-	cd /home/catkin_ws/build && $(MAKE) -f chapter3_tutorials/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/build.make chapter3_tutorials/CMakeFiles/dynamic_reconfigure_generate_messages_cpp.dir/build
-.PHONY : dynamic_reconfigure_generate_messages_cpp/fast
-
-# Convenience name for target.
-chapter3_tutorials/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/rule:
-	cd /home/catkin_ws/build && $(MAKE) -f CMakeFiles/Makefile2 chapter3_tutorials/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/rule
-.PHONY : chapter3_tutorials/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/rule
-
-# Convenience name for target.
-dynamic_reconfigure_generate_messages_lisp: chapter3_tutorials/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/rule
-.PHONY : dynamic_reconfigure_generate_messages_lisp
-
-# fast build rule for target.
-dynamic_reconfigure_generate_messages_lisp/fast:
-	cd /home/catkin_ws/build && $(MAKE) -f chapter3_tutorials/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/build.make chapter3_tutorials/CMakeFiles/dynamic_reconfigure_generate_messages_lisp.dir/build
-.PHONY : dynamic_reconfigure_generate_messages_lisp/fast
-
-# Convenience name for target.
-chapter3_tutorials/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/rule:
-	cd /home/catkin_ws/build && $(MAKE) -f CMakeFiles/Makefile2 chapter3_tutorials/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/rule
-.PHONY : chapter3_tutorials/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/rule
-
-# Convenience name for target.
-dynamic_reconfigure_generate_messages_py: chapter3_tutorials/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/rule
-.PHONY : dynamic_reconfigure_generate_messages_py
-
-# fast build rule for target.
-dynamic_reconfigure_generate_messages_py/fast:
-	cd /home/catkin_ws/build && $(MAKE) -f chapter3_tutorials/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/build.make chapter3_tutorials/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/build
-.PHONY : dynamic_reconfigure_generate_messages_py/fast
-
-# Convenience name for target.
 chapter3_tutorials/CMakeFiles/example1.dir/rule:
 	cd /home/catkin_ws/build && $(MAKE) -f CMakeFiles/Makefile2 chapter3_tutorials/CMakeFiles/example1.dir/rule
 .PHONY : chapter3_tutorials/CMakeFiles/example1.dir/rule
@@ -1158,10 +1102,6 @@ help:
 	@echo "... driver_base_generate_messages_cpp"
 	@echo "... driver_base_generate_messages_lisp"
 	@echo "... driver_base_generate_messages_py"
-	@echo "... dynamic_reconfigure_gencfg"
-	@echo "... dynamic_reconfigure_generate_messages_cpp"
-	@echo "... dynamic_reconfigure_generate_messages_lisp"
-	@echo "... dynamic_reconfigure_generate_messages_py"
 	@echo "... edit_cache"
 	@echo "... example1"
 	@echo "... example10"

@@ -1,2 +1,2 @@
-beginner_tutorials:chapter3_tutorials:chapter6_tutorials
+beginner_tutorials:chapter2_tutorials:chapter3_tutorials:chapter6_tutorials:chapter7_tutorials/chapter7_tutorials:chapter7_tutorials/robot1_description:chapter7_tutorials/robot1_gazebo:usb_cam
 -DCATKIN_DEVEL_PREFIX=/home/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/catkin_ws/install -G Unix Makefiles
